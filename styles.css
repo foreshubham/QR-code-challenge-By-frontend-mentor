@@ -17,7 +17,7 @@ html , body{
 }
 .QR{
     width: 320px; /* We can also use rem, em, ch etc., but this is a simple project so, I'm using px. */
-    height: 500px;
+    height: 520px;
     border-radius: 10px;
     background-color: #fff;
 }
